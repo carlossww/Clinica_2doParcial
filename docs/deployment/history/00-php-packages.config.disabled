@@ -1,0 +1,5 @@
+packages:
+  yum:
+    php-pgsql: []
+    php-xml: []
+    php-mbstring: []
